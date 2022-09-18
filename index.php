@@ -1,6 +1,6 @@
 <?php
-$т = rand(1,13);
-switch ($т){
+$n = rand(1,12);
+switch ($n){
     case 1: echo"Учим буквы"; break;
     case 2: echo"Учим таблицу умножения"; break;
     case 3: echo"Учимся считать в столбик"; break;
